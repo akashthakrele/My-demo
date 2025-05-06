@@ -1,3 +1,3 @@
 # My-demo
 first Repo.
-Author Akkash Thakrele
+Author Akash Thakrele
